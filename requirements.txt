@@ -1,2 +1,7 @@
 notebook
 streamlit
+python-dotenv
+requests
+pandas
+numpy
+scikit-learn
